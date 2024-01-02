@@ -1,0 +1,1 @@
+"I crafted a sleek and responsive grocery web page with Tailwind CSS, highlighting my expertise in front-end development. The site boasts an intuitive design, vibrant colors, and quick loading times. This project showcases my proficiency in creating visually appealing and user-friendly interfaces using modern web technologies."
